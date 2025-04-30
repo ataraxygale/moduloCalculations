@@ -40,6 +40,6 @@ Process finished with exit code 0
 - Python 3.11.5
 - PyCharm IDE
 
-- ## 📦 Notes
+## 📦 Notes
 - This is part of a growing set of small programs documenting my Python learning journey.
--  ⚙️✨
+- ⚙️✨
