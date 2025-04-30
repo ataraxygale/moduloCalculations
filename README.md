@@ -1,6 +1,6 @@
-# 🧮 moduloCalculations
--This program manually breaks out all Python modulo combination calculations.
--I have broken down manual shortcut methods for calculating each of the modulo combinations.
+## 🧮 moduloCalculations
+- This program manually breaks out all Python modulo combination calculations.
+- I have broken down manual shortcut methods for calculating each of the modulo combinations.
 
 ## 🧠 How It Works
 - Prompts the user to enter modulo variables a and b for equation a%b
